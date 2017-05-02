@@ -1,0 +1,126 @@
+% Encoding: UTF-8
+
+@Electronic{esoychile,
+  author       = {ESO},
+  month        = mar,
+  year         = {2017},
+  title        = {ESO \& Chile — A scientific and cultural bridge},
+  language     = {English},
+  howpublished = {\url{http://www.eso.org/public/chile/about-eso/eso-and-chile/}},
+  organization = {ESO},
+  url          = {http://www.eso.org/public/chile/about-eso/eso-and-chile/},
+  keywords     = {eso relation with chile}}
+
+@Webpage{descubrimientos,
+  author        = {{ESO}},
+  title         = {Los 10 descubrimientos astronómicos más destacados de ESO},
+  howpublished  = {\url{http://www.eso.org/public/chile/science/top10/}},
+  month         = {June},
+  year          = {2017},
+  note          = {[Acceso Diciembre 2016]},
+  date-added    = {2016-06-11 01:21:00 +0000},
+  date-modified = {2016-06-11 01:21:33 +0000},
+  keywords      = {ESO},
+  lastchecked   = {June 10th.},
+  url           = {#http://www.eso.org/public/chile/science/top10/#},
+}
+
+@Book{mantenimientoindustrial,
+  title     = {Mantenimiento Industrial},
+  publisher = {Universidad Carlos III de Madrid},
+  year      = {2011},
+  author    = {María Belén Muñoz Abella},
+  editor    = {Universidad Carlos III de Madrid},
+  url       = {http://ocw.uc3m.es/ingenieria-mecanica/teoria-de-maquinas/lecturas/MantenimientoIndustrial.pdf/view},
+}
+
+@Book{rao2011mechanical,
+  title     = {Mechanical vibrations},
+  publisher = {Prentice Hall Upper Saddle River},
+  year      = {2011},
+  author    = {Rao, Singiresu S and Yap, Fook Fah},
+  volume    = {4},
+}
+
+@Unpublished{fourieranalysis,
+  author   = {David Morin},
+  title    = {Fourier analysis},
+  month    = nov,
+  year     = {2009},
+  keywords = {Fourier Analysus},
+  owner    = {Harvard Univerisy},
+  url      = {http://www.people.fas.harvard.edu/~djmorin/waves/Fourier.pdf},
+}
+
+@article{white2010introduction,
+  title={Introduction to Vibration Analysis},
+  author={White, G},
+  journal={Azima-DLI. Woburm, MA},
+  year={2010}
+}
+
+@Article{Welch1967,
+  author        = {Welch, Peter},
+  title         = {The use of fast Fourier transform for the estimation of power spectra: a method based on time averaging over short, modified periodograms},
+  journal       = {IEEE Transactions on audio and electroacoustics},
+  year          = {1967},
+  volume        = {15},
+  number        = {2},
+  pages         = {70--73},
+  __markedentry = {[tomzko:]},
+  publisher     = {IEEE},
+}
+
+@Article{Boashash1992,
+  author        = {Boashash, Boualem},
+  title         = {Estimating and interpreting the instantaneous frequency of a signal. I. Fundamentals},
+  journal       = {Proceedings of the IEEE},
+  year          = {1992},
+  volume        = {80},
+  number        = {4},
+  pages         = {520--538},
+  __markedentry = {[tomzko:6]},
+  publisher     = {IEEE},
+}
+@Book{robinsonjc,
+  title     = {Vibration measurements on slow speed machinery},
+  publisher = {Predictive maintenance Technology National Conference},
+  year      = {1995},
+  author    = {Robinson, J. C},
+  editor    = {P/PM technology},
+  
+}
+@Webpage{dlinonstationary,
+  author        = {{DLI}},
+  title         = {Non-Stationary Signals},
+  howpublished  = {\url{http://www.azimadli.com/vibman/nonstationarysignals.htm}},
+  year          = {2009},
+  keywords      = {DLI},
+  lastchecked   = {June 10th.},
+  url           = {#http://www.azimadli.com/vibman/nonstationarysignals.htm#},
+}
+
+@Article{pedrosaav,
+  author = {Edgar Estupiñan and Pedro Saavedra},
+  title  = {Analisis de vibraciones aplicados a las maquinas rotatorias de baja velocidad},
+}
+
+@article{antoni2006spectral,
+  title={The spectral kurtosis: a useful tool for characterising non-stationary signals},
+  author={Antoni, J{\'e}r{\^o}me},
+  journal={Mechanical Systems and Signal Processing},
+  volume={20},
+  number={2},
+  pages={282--307},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@Article{Konstantinos2016,
+  author  = {Konstantinos Kamaras, Ilias Dimitrakopoulos},
+  title   = {Vibration Analysis of Rolling Element Bearings using Spectral Kurtosis and Envelope Analysis},
+  journal = {FNT},
+  year    = {2016},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

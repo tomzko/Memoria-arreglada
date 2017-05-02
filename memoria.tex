@@ -1,0 +1,49 @@
+\documentclass[12pt,letterpaper,final]{scrreprt} %{article}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage[utf8]{inputenc}%estaba en utf8 
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{colortbl}
+\usepackage{multirow}
+
+\graphicspath{{pictures/}} 
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{color}
+\providecommand\phantomsection{}
+\usepackage[left=4.00cm, right=3.00cm, top=3.00cm, bottom=3.00cm]{geometry}
+\usepackage{forest}
+\usepackage{afterpage}
+\usepackage{enumerate}
+\usepackage{subcaption}
+\usepackage{hyperref}
+\usepackage{apacite}
+\usepackage{cleveref}
+\usepackage{rotating} % \begin{sidewaysfigure} rotated image with caption also rotated
+\usepackage{array}
+\newcommand\blankpage{%
+	\null
+	\thispagestyle{empty}%
+	\addtocounter{page}{-1}%
+	\newpage}
+  % Apa Reference for bibliography
+\author{Tomás Dreves}
+
+\begin{document}
+	\input{portada}
+	\pagenumbering{Roman}
+	\input{resumen}
+	\input{summary}
+	\input{nomenclatura}
+	\pagenumbering{arabic}
+	\tableofcontents
+	\listoffigures
+	\newpage
+	\input{introduccion}
+	\input{desarrollo}
+    \bibliographystyle{apacite}
+    \bibliography{bibliography}
+
+\end{document}

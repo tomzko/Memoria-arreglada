@@ -1,0 +1,15 @@
+			\begin{figure}
+				\centering
+				\begin{subfigure}[b]{0.45\textwidth}
+					\includegraphics[width=\textwidth,height=5cm]{carina}
+					\caption{Nebulosa Carina (VST)}
+					\label{fig:carina}
+				\end{subfigure}			    
+			    \begin{subfigure}[b]{0.45\textwidth}
+			    	\includegraphics[width=\textwidth,height=5cm]{lallama}
+			    	\caption{nebulosa La Llama (VISTA)}
+			    	\label{fig:lallama}
+			    \end{subfigure}
+		    \caption{Imagenes capturadas por VST y Vista}
+		    \label{fig:vstvistaimages}
+		    \end{figure}
